@@ -7,13 +7,15 @@ h1 {
   margin-bottom: 50px;
   text-align: center;
   font-family: Helvetica;
+	font-size:175%;
 }
 h3 {
 	border: 1px solid black;
 	margin-top: 0px;
 	color: black;
+	font-size: 125%;
 	width: 100px;
-	height: 25px;
+	height: 30px;
 	text-align: center;
 
 	vertical-align: center;

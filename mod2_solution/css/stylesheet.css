@@ -32,19 +32,19 @@ section#container {
 #p1 {
   background-color: #A52A2A;
   position: absolute;
-  top: 0px;
+  top: -1px;
   right: 0px;
 }
 #p2 {
   background-color: #DEB887;
   position: absolute;
-  top: 0px;
+  top: -1px;
   right: 0px;
 }
 #p3 {
   background-color: #5F9EA0;
   position: absolute;
-  top: 0px;
+  top: -1px;
   right: 0px;
 }
 
